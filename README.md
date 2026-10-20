@@ -22,7 +22,7 @@ El proyecto permite comparar distintas estrategias de procesamiento, depuración
 
 El análisis geoespacial transforma millones de coordenadas individuales en unidades territoriales interpretables. El mapa combina los **NYC Community Districts** con una muestra de puntos de recogida y permite explorar visualmente la distribución espacial de los viajes.
 
-> El enlace interactivo estará disponible al activar **GitHub Pages** para este repositorio. La imagen anterior es una previsualización estática generada a partir del mismo resultado geoespacial.
+> La imagen enlaza al **mapa interactivo publicado mediante GitHub Pages**. La previsualización estática anterior se ha generado a partir del mismo resultado geoespacial.
 
 ## Datos y objetivo
 
