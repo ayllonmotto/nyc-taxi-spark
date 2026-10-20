@@ -1,0 +1,4 @@
+Indicador,Resultado
+Particiones observadas · analysis_trips_df,8
+spark.sql.shuffle.partitions,auto
+Adaptive Query Execution,no disponible en Serverless

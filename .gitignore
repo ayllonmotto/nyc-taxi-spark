@@ -1,0 +1,44 @@
+# Raw datasets: never redistribute
+/data/*
+!/data/README.md
+
+# Large/reproducible Parquet outputs
+*.parquet
+*.crc
+_SUCCESS
+_started_*
+_committed_*
+outputs/**/nyc_taxi_cleaned_parquet/
+outputs/**/daily_summary_parquet/
+
+# Spark local artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Databricks / local tooling
+.databricks/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

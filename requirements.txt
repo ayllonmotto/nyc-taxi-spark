@@ -1,0 +1,12 @@
+pyspark==4.1.0
+apache-sedona==1.9.0
+pandas==2.3.3
+numpy==2.4.6
+pyarrow==25.0.0
+geopandas==1.1.2
+shapely==2.1.2
+pyproj==3.7.2
+folium==0.20.0
+fsspec==2024.10.0
+matplotlib==3.11.1
+seaborn==0.13.2

@@ -1,0 +1,5 @@
+Elemento,DataFrame,Implementación local,Databricks Serverless,Estrategia
+Dataset analítico principal,analysis_trips_df,cache(),Checkpoint Parquet,Relectura del dataset depurado materializado
+Estadísticos por hora y día,stats_df,cache(),Sin caché,Reutilización directa del DataFrame agregado
+Agregación temporal,counts_and_distances_df,cache(),Sin caché,Reutilización directa del DataFrame agregado
+Dataset espacial,spatial_analysis_df,cache(),Sin caché,Reutilización directa de la proyección territorial

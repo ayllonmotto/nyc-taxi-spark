@@ -1,0 +1,8 @@
+Indicador,CSV + pipeline,Parquet analítico
+Registros analizados,"11,488,991","11,488,991"
+Tamaño aproximado,"1,893.96 MB",363.23 MB
+Tiempo mediano · 3 ejecuciones,8.42 s,0.86 s
+Reducción de almacenamiento,—,80.82 %
+Factor de reducción de tamaño,1.00×,5.21×
+Reducción del tiempo,—,89.76 %
+Factor de aceleración,1.00×,9.76×

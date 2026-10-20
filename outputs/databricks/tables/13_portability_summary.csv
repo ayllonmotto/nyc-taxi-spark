@@ -1,0 +1,11 @@
+Aspecto,Local,Databricks
+Python,3.11,3.12
+Apache Spark,4.1,4.2
+Procesamiento geoespacial,Apache Sedona 1.9,Funciones ST_* nativas
+Sesión Spark,Configurada manualmente,Gestionada por Serverless
+Datos de entrada,Sistema de archivos local,Unity Catalog Volume
+Persistencia analítica,Parquet local,Parquet en Volume
+Caché explícita,Sí,Desactivada
+Particionado shuffle,8,auto
+Ejecución adaptativa,Gestionable desde Spark,No expuesta directamente; AdaptiveSparkPlan observado
+Motor observado en Spark SQL,Spark,Photon en la consulta SQL analizada

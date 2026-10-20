@@ -1,0 +1,15 @@
+Indicador,Resultado
+Viajes de referencia,"11,489,716"
+Viajes analíticos,"11,488,991"
+Registros eliminados,725
+Porcentaje eliminado,0.0063 %
+Comportamiento típico,1.83 mi · 11.33 mph
+Distancia media,14.07 → 3.03 mi
+Velocidad media,63.17 → 12.79 mph
+Variación máxima P50–P99.9,0.52 %
+Día con mayor volumen,Sábado · 2.15 M
+Distrito con mayor actividad,"Midtown · 2,742,740"
+Cobertura espacial conjunta,89.81 %
+Checkpoint analítico,"Parquet · 11,488,991 viajes · 23 columnas"
+Procesamiento geoespacial,Funciones ST_* nativas de Databricks
+Ejecución Spark SQL,Photon · AdaptiveSparkPlan observado

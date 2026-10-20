@@ -1,0 +1,11 @@
+Comprobación,Ámbito,Estado
+Conservación de registros,Integridad,OK
+Límites de depuración,Calidad,OK
+Mediana de distancia,Estabilidad estadística,Estable
+Mediana de velocidad,Estabilidad estadística,Estable
+Día de mayor volumen,Estabilidad temporal,Estable
+Ranking territorial · top 15,Estabilidad territorial,Estable
+Perfil P50–P99.9,Estabilidad distribucional,Δ máx. 0.56 %
+Conservación en asignación territorial,Integridad espacial,OK
+Persistencia Parquet,Persistencia,OK
+Reutilización analítica del Parquet,Reproducibilidad,OK
