@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Generated interactive maps: keep them in the repository
+# but exclude them from GitHub language statistics
+outputs/**/*.html linguist-generated=true
